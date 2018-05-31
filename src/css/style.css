@@ -28,3 +28,6 @@
         background-repeat:   no-repeat;
         background-size:     cover;
     }
+html {
+  overflow-x: hidden;
+}
